@@ -1,0 +1,22 @@
+feature,importance
+Chest pain type = asymptomatic,0.41665444
+Chest pain during exercise = no,0.14594328
+Sex = Female,0.06257511
+Chest pain type = atypical angina,0.06178183
+Age (years),0.050364133
+ST depression (oldpeak),0.045481857
+Maximum heart rate achieved,0.037436273
+Resting ECG result = st-t abnormality,0.033055913
+Serum cholesterol (mg/dl),0.026378926
+Slope of peak exercise ST segment = upsloping,0.02632298
+Chest pain type = non-anginal,0.022394229
+Slope of peak exercise ST segment = flat,0.021332737
+Resting ECG result = normal,0.017529055
+Chest pain type = typical angina,0.017040806
+Resting blood pressure (mm Hg),0.01570846
+Sex = Male,0.0
+Fasting blood sugar > 120 mg/dl = no,0.0
+Fasting blood sugar > 120 mg/dl = yes,0.0
+Resting ECG result = lv hypertrophy,0.0
+Slope of peak exercise ST segment = downsloping,0.0
+Chest pain during exercise = yes,0.0

@@ -1,0 +1,17 @@
+,missing_count,missing_percent
+ca,611,66.4
+thal,486,52.8
+slope,309,33.6
+fbs,90,9.8
+oldpeak,62,6.7
+trestbps,59,6.4
+exang,55,6.0
+thalch,55,6.0
+chol,30,3.3
+restecg,2,0.2
+cp,0,0.0
+dataset,0,0.0
+id,0,0.0
+age,0,0.0
+sex,0,0.0
+num,0,0.0
